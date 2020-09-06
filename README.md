@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./.github/logo.png" width="250px" alt="Dirbbox"/>
+  <img src="./.github/logo.PNG" width="250px" alt="Dirbbox"/>
 </div>
 
 <h3 align="center">
